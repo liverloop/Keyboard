@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <item name="keyboard_number_0" type="id"/>
+  <item name="keyboard_number_1" type="id"/>
+  <item name="keyboard_number_2" type="id"/>
+  <item name="keyboard_number_3" type="id"/>
+  <item name="keyboard_number_4" type="id"/>
+  <item name="keyboard_number_5" type="id"/>
+  <item name="keyboard_number_6" type="id"/>
+
+</resources>

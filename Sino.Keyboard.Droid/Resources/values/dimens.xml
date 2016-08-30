@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <dimen name="keyboard_key_gap">1.2dp</dimen>
+  <dimen name="keyboard_key_radius">5dp</dimen>
+  <dimen name="keyboard_key_height">42dp</dimen>
+
+</resources>

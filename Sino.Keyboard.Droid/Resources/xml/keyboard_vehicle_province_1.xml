@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyHeight="@dimen/keyboard_key_height"
+    android:keyWidth="12.499995%p">
+
+  <Row>
+    <Key android:codes="401" android:keyLabel="京" android:keyEdgeFlags="left"/>
+    <Key android:codes="402" android:keyLabel="津" />
+    <Key android:codes="403" android:keyLabel="晋" />
+    <Key android:codes="404" android:keyLabel="冀" />
+    <Key android:codes="405" android:keyLabel="蒙" />
+    <Key android:codes="406" android:keyLabel="辽" />
+    <Key android:codes="407" android:keyLabel="吉" />
+    <Key android:codes="408" android:keyLabel="黑" android:keyEdgeFlags="right"/>
+  </Row>
+
+  <Row>
+    <Key android:codes="409" android:keyLabel="沪" android:keyEdgeFlags="left"/>
+    <Key android:codes="410" android:keyLabel="苏" />
+    <Key android:codes="411" android:keyLabel="浙" />
+    <Key android:codes="412" android:keyLabel="皖" />
+    <Key android:codes="413" android:keyLabel="闽" />
+    <Key android:codes="414" android:keyLabel="赣" />
+    <Key android:codes="415" android:keyLabel="鲁" />
+    <Key android:codes="416" android:keyLabel="豫" android:keyEdgeFlags="right"/>
+  </Row>
+
+  <Row>
+    <Key android:codes="417" android:keyLabel="鄂" android:keyEdgeFlags="left"/>
+    <Key android:codes="418" android:keyLabel="湘" />
+    <Key android:codes="419" android:keyLabel="粤" />
+    <Key android:codes="420" android:keyLabel="桂" />
+    <Key android:codes="421" android:keyLabel="琼" />
+    <Key android:codes="422" android:keyLabel="渝" />
+    <Key android:codes="423" android:keyLabel="川" />
+    <Key android:codes="424" android:keyLabel="贵" android:keyEdgeFlags="right"/>
+  </Row>
+
+  <Row>
+    <Key android:codes="425" android:keyLabel="云" android:keyEdgeFlags="left"/>
+    <Key android:codes="426" android:keyLabel="藏" />
+    <Key android:codes="427" android:keyLabel="陕" />
+    <Key android:codes="428" android:keyLabel="甘" />
+    <Key android:codes="429" android:keyLabel="青" />
+    <Key android:codes="430" android:keyLabel="宁" />
+    <Key android:codes="431" android:keyLabel="新" />
+    <Key android:codes="432" android:keyLabel="武" android:keyEdgeFlags="right"/>
+  </Row>
+
+</Keyboard>

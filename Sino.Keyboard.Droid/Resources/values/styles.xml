@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="KeyboardInputNumber">
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+    <item name="android:textColor">#252525</item>
+    <item name="android:textColorHint">#DFDFDF</item>
+    <item name="android:textSize">28sp</item>
+    <item name="android:typeface">monospace</item>
+    <item name="android:padding">2dp</item>
+    <item name="android:gravity">center</item>
+    <item name="android:background">@drawable/keyboard_bg_number</item>
+  </style>
+
+  <style name="KeyboardInputNumber.Password">
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_weight">1</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:inputType">textPassword</item>
+    <item name="android:layout_margin">2dp</item>
+    <item name="android:background">@android:color/white</item>
+  </style>
+
+  <style name="keyboard_dialog" parent="android:style/Theme.Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+
+</resources>

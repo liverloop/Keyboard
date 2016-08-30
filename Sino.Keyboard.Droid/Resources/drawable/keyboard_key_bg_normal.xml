@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+  <stroke
+      android:width="@dimen/keyboard_key_gap"
+      android:color="@color/keyboard_background"/>
+
+  <corners
+      android:radius="@dimen/keyboard_key_radius"/>
+
+  <solid
+      android:color="@color/keyboard_key_frontend_color_normal"/>
+
+</shape>
